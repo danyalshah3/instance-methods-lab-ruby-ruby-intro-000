@@ -6,7 +6,7 @@ def bark
 end
 end
 
-class XDog
+class Dog
 
 def sit
   puts "The Dog is sitting"
