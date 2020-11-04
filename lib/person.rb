@@ -7,5 +7,5 @@ end
 end
 
 def walk
-  
+
 end
