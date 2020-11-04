@@ -6,11 +6,3 @@ def bark
 end
 end
 
-fido = Dog.new
-fido.bark
-fido.sit
-
-def sit
-  puts "The Dog is siiting"
-end
-end
